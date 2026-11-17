@@ -1,0 +1,15 @@
+{
+  "name": "Тренажёр олимпиады им. К. Д. Ушинского",
+  "short_name": "Олимпиада",
+  "description": "Офлайн-подготовка к письменному туру",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6fc",
+  "theme_color": "#203d83",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
